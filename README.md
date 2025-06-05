@@ -1,0 +1,1 @@
+In this project, weWe will be analyzing the student dropout dataset and performing the necessary data analysis to draw insights and derive data-based solutions for drop-out rates in schools in portugal.
