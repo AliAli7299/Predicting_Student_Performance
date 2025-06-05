@@ -1,1 +1,2 @@
-In this project, weWe will be analyzing the student dropout dataset and performing the necessary data analysis to draw insights and derive data-based solutions for drop-out rates in schools in portugal.
+In this project, i analyzed a dataset of 650 rows and 34 columns to derive the factors that affect student performance in highschool students in Portugal.
+I set up the goal of the analysis, imported the data, did some exploratory data analysis to understand the data and target column, performed the analysis and built a machine learning model at the end. Please find the powerpoint presentation attached for results.
